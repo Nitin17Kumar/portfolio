@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Nitin17Kumar/portfolio.git/static/css/main.cfd754c4.css",
+    "main.js": "/Nitin17Kumar/portfolio.git/static/js/main.665a54fd.js",
+    "static/js/726.b792280e.chunk.js": "/Nitin17Kumar/portfolio.git/static/js/726.b792280e.chunk.js",
+    "static/media/about04.png": "/Nitin17Kumar/portfolio.git/static/media/about04.fa7b3a72ed32b0e25bfb.png",
+    "static/media/about02.png": "/Nitin17Kumar/portfolio.git/static/media/about02.7a3df03410ee756268ec.png",
+    "static/media/about01.png": "/Nitin17Kumar/portfolio.git/static/media/about01.080509de05322b7aafda.png",
+    "static/media/bgIMG.png": "/Nitin17Kumar/portfolio.git/static/media/bgIMG.c39101e520e2997fc6d4.png",
+    "static/media/profile.png": "/Nitin17Kumar/portfolio.git/static/media/profile.9b08714934685809f8b5.png",
+    "static/media/bgWhite.png": "/Nitin17Kumar/portfolio.git/static/media/bgWhite.79658cadae50b3b16ee5.png",
+    "static/media/about03.png": "/Nitin17Kumar/portfolio.git/static/media/about03.c26c2547bb1a423cf283.png",
+    "static/media/spotify.png": "/Nitin17Kumar/portfolio.git/static/media/spotify.2b5e9be1eb1ab501e7cd.png",
+    "static/media/nb.png": "/Nitin17Kumar/portfolio.git/static/media/nb.98f3253e32cc67a4cb5e.png",
+    "static/media/asus.png": "/Nitin17Kumar/portfolio.git/static/media/asus.514bc34955008a92e09f.png",
+    "static/media/WordPress.png": "/Nitin17Kumar/portfolio.git/static/media/WordPress.677ef4544cab80a0c451.png",
+    "static/media/adidas.png": "/Nitin17Kumar/portfolio.git/static/media/adidas.83df8153294f9137d308.png",
+    "static/media/bootstrap.jpg": "/Nitin17Kumar/portfolio.git/static/media/bootstrap.6d2d0128b0c02a24c19d.jpg",
+    "static/media/bolt.png": "/Nitin17Kumar/portfolio.git/static/media/bolt.64e7d9d30ece478ef3a0.png",
+    "static/media/redux.png": "/Nitin17Kumar/portfolio.git/static/media/redux.c9be37e0fece29c624b0.png",
+    "static/media/sass.png": "/Nitin17Kumar/portfolio.git/static/media/sass.36e863bfbcb25c109d00.png",
+    "static/media/node.png": "/Nitin17Kumar/portfolio.git/static/media/node.8683d89cf78ffae3d1f7.png",
+    "static/media/cpp.png": "/Nitin17Kumar/portfolio.git/static/media/cpp.9002a804bbfa0354d0b8.png",
+    "static/media/graphql.png": "/Nitin17Kumar/portfolio.git/static/media/graphql.0372057049181c5de51a.png",
+    "static/media/amazon.png": "/Nitin17Kumar/portfolio.git/static/media/amazon.0a8be1f53138b5c52456.png",
+    "static/media/mobile.png": "/Nitin17Kumar/portfolio.git/static/media/mobile.145d9ce0157a56f8fcd8.png",
+    "static/media/figma.png": "/Nitin17Kumar/portfolio.git/static/media/figma.152e55329b6f1915967e.png",
+    "static/media/css.png": "/Nitin17Kumar/portfolio.git/static/media/css.5721a3928fe43de6baf8.png",
+    "static/media/git.png": "/Nitin17Kumar/portfolio.git/static/media/git.a54d3fa44e02f2f61e69.png",
+    "static/media/skype.png": "/Nitin17Kumar/portfolio.git/static/media/skype.c8d7ee175da5b4c8a8ab.png",
+    "index.html": "/Nitin17Kumar/portfolio.git/index.html",
+    "static/media/circle.svg": "/Nitin17Kumar/portfolio.git/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
+    "main.cfd754c4.css.map": "/Nitin17Kumar/portfolio.git/static/css/main.cfd754c4.css.map",
+    "main.665a54fd.js.map": "/Nitin17Kumar/portfolio.git/static/js/main.665a54fd.js.map",
+    "726.b792280e.chunk.js.map": "/Nitin17Kumar/portfolio.git/static/js/726.b792280e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfd754c4.css",
+    "static/js/main.665a54fd.js"
+  ]
+}
